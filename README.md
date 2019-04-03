@@ -5,5 +5,5 @@ She is still working on understanding her basic functionalities before being abl
 
 Kindly bear with her and her team. 
 
-Warm Regards,
+Warm Regards
 Tazaana's team.
