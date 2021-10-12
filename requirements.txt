@@ -22,7 +22,7 @@ mccabe==0.6.1
 mysql-connector==2.1.6
 mysql-connector-python==8.0.13
 numpy==1.15.4
-opencv-contrib-python==3.4.4.19
+opencv-contrib-python==4.2.0.32
 protobuf==3.6.1
 pyasn1==0.4.4
 pandas
